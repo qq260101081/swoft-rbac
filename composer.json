@@ -1,0 +1,22 @@
+{
+    "name": "qq260101081/swoft-rbac",
+    "description": "swoft的rbac扩展，用的是yii2的rbac改造",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "260101081",
+            "email": "260101081@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">7.1",
+        "swoft": ">2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qq260101081\\Yang\\": "src"
+        }
+    }
+}
