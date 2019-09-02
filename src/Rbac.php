@@ -6,7 +6,7 @@ use Qq260101081\BaseManager;
 use Swoft\Bean\Annotation\Mapping\Inject;
 
 /**
- * Class Rbac
+ * Class RbacController
  * @package Qq260101081
  */
 class Rbac
@@ -20,7 +20,7 @@ class Rbac
 
     /**
      * 分配用户角色
-     * 
+     *
      * @param $userId
      * @param $roleName
      * @return mixed|\Qq260101081\Assignment
