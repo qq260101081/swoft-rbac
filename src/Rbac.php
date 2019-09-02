@@ -1,13 +1,13 @@
 <?php
 
-namespace Qq26010108;
+namespace Qq260101081;
 
 use Qq260101081\BaseManager;
 use Swoft\Bean\Annotation\Mapping\Inject;
 
 /**
- * Class RbacController
- * @package Qq26010108
+ * Class Rbac
+ * @package Qq260101081
  */
 class Rbac
 {
