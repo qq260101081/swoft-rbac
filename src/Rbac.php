@@ -1,6 +1,6 @@
 <?php
 
-namespace Qq260101081;
+namespace Qq260101081\Rbac;
 
 use Qq260101081\BaseManager;
 use Swoft\Bean\Annotation\Mapping\Inject;
